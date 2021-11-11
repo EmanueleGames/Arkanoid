@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="File di origine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione\Game State">
+      <UniqueIdentifier>{981ce587-a3c3-468d-86a1-4636c5c84e5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File di origine\Game State">
+      <UniqueIdentifier>{e4f1374b-38a4-4b0b-8443-523fa0ff24d0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clTitleState.cpp">
+      <Filter>File di origine\Game State</Filter>
+    </ClCompile>
+    <ClCompile Include="clPlayState.cpp">
+      <Filter>File di origine\Game State</Filter>
+    </ClCompile>
+    <ClCompile Include="clTexture.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clTimer.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="globals.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clGameOverState.cpp">
+      <Filter>File di origine\Game State</Filter>
+    </ClCompile>
+    <ClCompile Include="clBall.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clSpaceShip.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clBrick.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clGameState.h">
+      <Filter>File di intestazione\Game State</Filter>
+    </ClInclude>
+    <ClInclude Include="constants.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clTitleState.h">
+      <Filter>File di intestazione\Game State</Filter>
+    </ClInclude>
+    <ClInclude Include="clPlayState.h">
+      <Filter>File di intestazione\Game State</Filter>
+    </ClInclude>
+    <ClInclude Include="clTexture.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clTimer.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clGameOverState.h">
+      <Filter>File di intestazione\Game State</Filter>
+    </ClInclude>
+    <ClInclude Include="clBall.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clSpaceShip.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clBrick.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
