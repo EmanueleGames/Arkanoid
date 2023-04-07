@@ -11,22 +11,20 @@
 **Language:** &nbsp;&nbsp; C++  
 **Libraries:** &nbsp;&nbsp;&nbsp;&nbsp; SDL2 (Simple DirectMedia Layer)
 <br/>
-> Multiple scene implemented with Object Oriented State Machine:  
-> inheritance, polymorphism, operator overloading.  
-> Single Player, single level.  
-> First project involving movement and collisions detection.  
-> VSync dibabled, FPS are capped manually in the game loop.  
-> Multiple source files. 1024x768 pixels resolution.
+> Multiple scene implemented with Object-Oriented State Machine  
+> Inheritance, polymorphism, operator overloading  
+> First motion and collision detection project  
+> Sound effects. VSync off, FPS capped at 60. Average FPS counter  
 
 
 ## Features
-* Triple scene game: title, game, match over
-* Single player mode
-* Left and Right arrow keys control
-* Basic movements and collisions
-* Basic sounds
-* VSync disabled
-* Average FPS counter
+* Triple scene game: title, game, match over  
+* Single player, single level  
+* Left and Right arrow keys control  
+* Basic movements and collisions  
+* Basic sounds  
+* VSync disabled  
+* Average FPS counter  
 
 <br/>
 <br/>
