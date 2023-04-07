@@ -22,9 +22,7 @@
 * Single player, single level  
 * Left and Right arrow keys control  
 * Basic movements and collisions  
-* Basic sounds  
-* VSync disabled  
-* Average FPS counter  
+ 
 
 <br/>
 <br/>
